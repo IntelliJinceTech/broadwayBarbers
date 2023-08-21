@@ -1,10 +1,6 @@
 
-# My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
-
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-![alt tag]
+# Broadway Barbers
+This was a project for a client looking to expand his website presence during the pandemic. 
 
 ## How It's Made:
 
@@ -14,8 +10,6 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 Enhanced my understanding of Flexbox for CSS as well as the overall nature of using media queries to enhance user experience at different screen sizes.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
 
 
 
